@@ -12,17 +12,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
+global.owner = ['212609493719']
+global.premium = ['212609493719']
+global.ownernomer = '212609493719'
 global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.botname = '[𝐋𝐎9𝐌𝐀𝐍𝐄 𝛃𝚯𝚪🤘]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
 global.ig = 'https://github.com/KING-BOT-OFFICIAL'
 global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
 global.myweb = 'https://youtube.com/channel/UCgwWV1Cya4_gUFKYOQYQtHw'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.packname = '[𝐋𝐎9𝐌𝐀𝐍𝐄 𝛃𝚯𝚪🤘]'
+global.author = '𝐋𝐎9𝐌𝐀𝐍𝐄 𝐌𝐀𝐑𝐑𝐀𝐊𝐄𝐂𝐇'
 global.sessionName = 'session'
 global.region = 'Sri Lanka'
 global.reactmoji = '🎭'
@@ -30,12 +30,12 @@ global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    admin: 'هاد لعيبة اصاط هيࢪ ديال ادمين!',
+    botAdmin: 'لبوت خاص هيࢪ بلأدمين اصديقي!',
+    owner: 'هاد لعيبة ڪنقدࢪ نديࢪها هير انا هه!',
+    group: 'هادي منوعة فالخاص ديࢪها فالڪࢪوب!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'هادي مختاصة هيࢪ مول لبوت لي يقدࢪ يديرها',
     wait: '⏳ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
